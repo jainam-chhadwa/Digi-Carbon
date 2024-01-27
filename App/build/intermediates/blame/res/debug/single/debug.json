@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\layout-sw320dp_most_usage_row.xml.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\layout-sw320dp\\most_usage_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\layout_fragment_viewpager.xml.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\layout\\fragment_viewpager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\layout_recycler_top_layout.xml.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\layout\\recycler_top_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\layout_fragment_app_detail.xml.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\layout\\fragment_app_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_timeline_time_bg.9.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable-xhdpi\\timeline_time_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_reload.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable-hdpi\\ic_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_reload.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable-xxhdpi\\ic_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\layout-sw320dp_fragment_app_most_usage_statistics.xml.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\layout-sw320dp\\fragment_app_most_usage_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\layout-sw320dp_app_dialog.xml.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\layout-sw320dp\\app_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable_dot_yellow.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable\\dot_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable_small_icon.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable\\small_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable_dot_green.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable\\dot_green.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_mask.xml.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable\\ripple_mask.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable-xxxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\menu_navigation_menu.xml.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable_large_icon.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable\\large_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable_about.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\layout_fragment_app_usage_statistics.xml.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\layout\\fragment_app_usage_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\layout_activity_options.xml.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\layout\\activity_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_reload.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable-xhdpi\\ic_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable_dot_red.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable\\dot_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_reload.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable-mdpi\\ic_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable_actionbarback.xml.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable\\actionbarback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_reload.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable-xxxhdpi\\ic_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\layout_row_layout.xml.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\layout\\row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_timeline_line.9.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable-xhdpi\\timeline_line.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_usage_row.xml.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\layout-sw480dp\\usage_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\layout_activity_app_usage_statistics.xml.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\layout\\activity_app_usage_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable_notify.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable\\notify.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\layout_activity_notification.xml.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\drawable_button_ripple.xml.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\drawable\\button_ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\build\\intermediates\\res\\merged\\debug\\layout-sw320dp_usage_row.xml.flat",
+        "source": "C:\\Users\\Sahil\\Desktop\\DigitalDetox-master1\\DigitalDetox-master\\App\\src\\main\\res\\layout-sw320dp\\usage_row.xml"
+    }
+]

@@ -1,0 +1,270 @@
+<!--<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent">-->
+
+<!--    <android.support.design.widget.AppBarLayout-->
+<!--        android:id="@+id/appbar"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="300dp">-->
+
+<!--        <android.support.design.widget.CollapsingToolbarLayout-->
+<!--            android:id="@+id/collapsing"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            app:layout_scrollFlags="scroll|enterAlways">-->
+
+<!--            <android.support.v7.widget.CardView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:elevation="4dp"-->
+<!--                app:cardBackgroundColor="@color/colorPrimary"-->
+<!--                app:cardCornerRadius="0dp">-->
+
+<!--                <RelativeLayout-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="350dp">-->
+
+
+<!--                    <TextView-->
+<!--                        android:id="@+id/detail_chart_no_usage"-->
+<!--                        android:layout_width="wrap_content"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:layout_centerInParent="true"-->
+<!--                        android:shadowColor="@color/textDarkGray"-->
+<!--                        android:text="@string/no_usage"-->
+<!--                        android:textSize="24sp"-->
+<!--                        android:visibility="gone"-->
+<!--                        tools:visibility="visible" />-->
+
+<!--                    <TextView-->
+<!--                        android:id="@+id/textView4"-->
+<!--                        android:layout_width="wrap_content"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:text="" />-->
+
+<!--                    <TextView-->
+<!--                        android:id="@+id/textView5"-->
+<!--                        android:layout_width="wrap_content"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:layout_marginTop="30dp"-->
+<!--                        android:text="" />-->
+
+<!--                    <Button-->
+<!--                        android:id="@+id/predict"-->
+<!--                        android:layout_width="124dp"-->
+<!--                        android:layout_height="40dp"-->
+<!--                        android:layout_alignParentStart="true"-->
+<!--                        android:layout_alignParentTop="true"-->
+<!--                        android:layout_alignParentEnd="true"-->
+<!--                        android:layout_marginStart="150dp"-->
+<!--                        android:layout_marginLeft="140dp"-->
+<!--                        android:layout_marginTop="265dp"-->
+<!--                        android:layout_marginEnd="138dp"-->
+<!--                        android:layout_marginBottom="250dp"-->
+<!--                        android:text="Predict" />-->
+
+<!--                    <TextView-->
+<!--                        android:id="@+id/result"-->
+<!--                        android:layout_width="124dp"-->
+<!--                        android:layout_height="40dp"-->
+<!--                        android:layout_below="@id/predict"-->
+<!--                        android:layout_alignParentStart="true"-->
+<!--                        android:layout_alignParentTop="true"-->
+<!--                        android:layout_alignParentEnd="true"-->
+<!--                        android:layout_marginStart="150dp"-->
+<!--                        android:layout_marginLeft="140dp"-->
+<!--                        android:layout_marginTop="300dp"-->
+<!--                        android:layout_marginEnd="138dp"-->
+<!--                        android:layout_marginBottom="250dp"-->
+<!--                        android:text=""-->
+<!--                        android:textAppearance="@style/TextAppearance.AppCompat.Display1"-->
+<!--                        android:textColor="@color/textWhite" />-->
+
+<!--                    <com.github.mikephil.charting.charts.PieChart-->
+<!--                        android:id="@+id/detail_chart"-->
+<!--                        android:layout_width="match_parent"-->
+<!--                        android:layout_height="220dp"-->
+<!--                        android:layout_marginTop="50dp"-->
+<!--                        android:visibility="gone"-->
+<!--                        tools:visibility="visible" />-->
+
+<!--                </RelativeLayout>-->
+
+<!--            </android.support.v7.widget.CardView>-->
+
+<!--        </android.support.design.widget.CollapsingToolbarLayout>-->
+<!--    </android.support.design.widget.AppBarLayout>-->
+
+
+<!--    <RelativeLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="500dp"-->
+<!--        app:layout_behavior="@string/appbar_scrolling_view_behavior">-->
+
+<!--        <android.support.v7.widget.RecyclerView-->
+<!--            android:id="@+id/recyclerview_app_detail"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="474dp"-->
+<!--            android:drawSelectorOnTop="false"-->
+<!--            android:scrollbars="vertical" />-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/detail_no_usage"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_alignParentTop="true"-->
+<!--            android:layout_centerHorizontal="true"-->
+<!--            android:paddingTop="60dp"-->
+<!--            android:shadowColor="@color/textDarkGray"-->
+<!--            android:text="@string/no_usage"-->
+<!--            android:textSize="24sp"-->
+<!--            android:visibility="gone"-->
+<!--            tools:visibility="visible" />-->
+
+<!--    </RelativeLayout>-->
+
+<!--</android.support.design.widget.CoordinatorLayout>-->
+
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="300dp">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:id="@+id/collapsing"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_scrollFlags="scroll|enterAlways">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:elevation="4dp"
+                app:cardBackgroundColor="@color/colorPrimary"
+                app:cardCornerRadius="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <com.github.mikephil.charting.charts.PieChart
+                        android:id="@+id/detail_chart"
+                        android:layout_width="match_parent"
+                        android:layout_height="220dp"
+                        android:layout_centerInParent="true"
+                        android:visibility="gone"
+                        tools:visibility="visible" />
+
+
+                    <TextView
+                        android:id="@+id/detail_chart_no_usage"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:shadowColor="@color/textDarkGray"
+                        android:text="@string/no_usage"
+                        android:textSize="24sp"
+                        android:visibility="gone"
+                        tools:visibility="visible" />
+
+                    <Button
+                        android:id="@+id/back_arrow"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Back"
+                        android:onClick="goBack" />
+                    <TextView
+                        android:id="@+id/textView4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:text=""
+                        android:textColor="#FFFFFF" />
+
+                    <TextView
+                        android:id="@+id/textView5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:textColor="#FFFFFF"
+                        android:text=""
+                        android:layout_marginTop="25dp"/>
+
+                                        <Button
+                                            android:id="@+id/predict"
+                                            android:layout_width="40dp"
+                                            android:layout_height="40dp"
+                                            android:layout_alignParentStart="true"
+                                            android:layout_alignParentTop="true"
+                                            android:layout_alignParentEnd="true"
+                                            android:layout_marginStart="150dp"
+                                            android:layout_marginLeft="10dp"
+                                            android:layout_marginTop="265dp"
+                                            android:layout_marginEnd="250dp"
+                                            android:layout_marginBottom="250dp"
+                                            android:text="Predict" />
+                    <TextView
+                                            android:id="@+id/result"
+                                            android:layout_width="124dp"
+                                            android:layout_height="40dp"
+                                            android:layout_below="@id/predict"
+                                            android:layout_alignParentStart="true"
+                                            android:layout_alignParentTop="true"
+                                            android:layout_alignParentEnd="true"
+                                            android:layout_marginStart="250dp"
+                                            android:layout_marginLeft="250dp"
+                                            android:layout_marginTop="265dp"
+                                            android:layout_marginEnd="13dp"
+                                            android:layout_marginBottom="250dp"
+                                            android:text=""
+
+                                            android:textColor="@color/textWhite" />
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+        </android.support.design.widget.CollapsingToolbarLayout>
+    </android.support.design.widget.AppBarLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerview_app_detail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:drawSelectorOnTop="true"
+            android:scrollbars="vertical" />
+
+        <TextView
+            android:id="@+id/detail_no_usage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:paddingTop="60dp"
+            android:shadowColor="@color/textDarkGray"
+            android:text="@string/no_usage"
+            android:textSize="24sp"
+            android:visibility="gone"
+            tools:visibility="visible" />
+
+    </RelativeLayout>
+
+
+
+</android.support.design.widget.CoordinatorLayout>
+
